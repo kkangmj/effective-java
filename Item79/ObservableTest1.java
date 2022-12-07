@@ -2,8 +2,8 @@ package Item79;
 
 import java.util.HashSet;
 
-public class ObservableTest {
-    
+public class ObservableTest1 {
+
     public static void main(String[] args) {
         ObservableSet<Integer> set = new ObservableSet<>(new HashSet<>());
 
