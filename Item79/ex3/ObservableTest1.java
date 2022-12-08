@@ -1,8 +1,8 @@
-package Item79;
+package Item79.ex3;
 
 import java.util.HashSet;
 
-public class ObservableTest2 {
+public class ObservableTest1 {
 
     public static void main(String[] args) {
         ObservableSet<Integer> set = new ObservableSet<>(new HashSet<>());

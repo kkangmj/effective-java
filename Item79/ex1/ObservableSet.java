@@ -1,4 +1,6 @@
-package Item79;
+package Item79.ex1;
+
+import Item79.ForwardingSet;
 
 import java.util.ArrayList;
 import java.util.Collection;
